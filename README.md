@@ -1,1 +1,1 @@
-# text-and-image-plagiarism-detection
+# Text and Image Plagiarism Detection
