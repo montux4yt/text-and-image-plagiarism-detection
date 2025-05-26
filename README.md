@@ -43,7 +43,11 @@ To get started with the project, follow these steps:
     ```
 3. Install the required dependencies for the web application:
     ```
-    pip install -r download-reqs.txt
+    pip install -r requirements.txt
+    ```
+4. Install the NLTK dependencies:
+    ```
+    python3 libs-requirements.py
     ```
 
 ## Running the Command-Line Utility
